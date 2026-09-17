@@ -1,0 +1,7 @@
+{
+  "name": "Lógica Matemática",
+  "description": "App educativa de Lógica Matemática con tablas de verdad, simplificación, leyes, cuantificadores, ejercicios y exámenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
